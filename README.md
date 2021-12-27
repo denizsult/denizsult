@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a  href="#"><img width="90%" height="auto" src="https://i.pinimg.com/originals/85/76/10/857610b192b42ea71d293aa00b21a7ee.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deniz</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
