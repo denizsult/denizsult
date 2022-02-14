@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Vue Netflix Clone](https://github.com/denizsult/vue-netflix-clone)**
+- 🔭 I’m currently working on **[Vue Getir Clone](https://github.com/denizsult/getir_clone_app)**
 
 - 🌱 I’m currently learning **Kubernetes and Docker**
 
