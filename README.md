@@ -1,6 +1,6 @@
 <a  href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/85/76/10/857610b192b42ea71d293aa00b21a7ee.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deniz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Deniz</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
 
 ## 🙋‍♂️ About Me
