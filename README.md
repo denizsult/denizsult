@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Vue Getir Clone](https://github.com/denizsult/getir_clone_app)**
 
-- 🌱 I’m currently learning **Kubernetes and Docker**
+- 🌱 I’m currently learning **Deutsch**
 
 - 📫 How to reach me **denisultanoglu@gmail.com**
 
