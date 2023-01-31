@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Vue Getir Clone](https://github.com/denizsult/getir_clone_app)**
+- 🔭 I’m currently working on **[Socially](https://github.com/denizsult/socially)**
 
-- 🌱 I’m currently learning **Deutsch**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **denisultanoglu@gmail.com**
 
