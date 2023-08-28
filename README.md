@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Socially](https://github.com/denizsult/socially)**
+- 🔭 I’m currently working on **[Hr Buddy](https://hrbuddy.us/)**
 
 - 🌱 I’m currently learning **React**
 
