@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Hr Buddy](https://hrbuddy.us/)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **denisultanoglu@gmail.com**
 
