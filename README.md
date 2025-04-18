@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Hr Buddy](https://hrbuddy.us/)**
+- 🔭 I’m currently working on **[AppLens](https://applens.co/)**
 
 - 📫 How to reach me **denisultanoglu@gmail.com**
 
